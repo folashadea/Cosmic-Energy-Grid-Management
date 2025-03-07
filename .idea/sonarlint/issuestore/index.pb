@@ -7,3 +7,5 @@ _
 /tests/galactic-energy-node-registration.test.ts,b/4/b424010778f1e2d4a7a051ce1715faf6e213f9ed
 Y
 )contracts/interstellar-power-routing.clar,9/8/98ba1990640d011cf50b22f0a7bf47d47b91ff0d
+X
+(tests/interstellar-power-routing.test.ts,c/e/ce13d0025bceefa2832fc7309712f8a439474011
