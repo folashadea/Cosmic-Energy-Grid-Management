@@ -9,3 +9,5 @@ Y
 )contracts/interstellar-power-routing.clar,9/8/98ba1990640d011cf50b22f0a7bf47d47b91ff0d
 X
 (tests/interstellar-power-routing.test.ts,c/e/ce13d0025bceefa2832fc7309712f8a439474011
+V
+&contracts/dark-energy-integration.clar,4/3/434a4361a59cb73fe4d46e459fd76362a2de0ee6

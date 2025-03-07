@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.dark-energy-integration]
+path = 'contracts/dark-energy-integration.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.galactic-energy-node-registration]
 path = 'contracts/galactic-energy-node-registration.clar'
 clarity_version = 2
