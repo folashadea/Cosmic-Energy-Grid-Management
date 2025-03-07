@@ -11,3 +11,5 @@ X
 (tests/interstellar-power-routing.test.ts,c/e/ce13d0025bceefa2832fc7309712f8a439474011
 V
 &contracts/dark-energy-integration.clar,4/3/434a4361a59cb73fe4d46e459fd76362a2de0ee6
+U
+%tests/dark-energy-integration.test.ts,b/a/bad5d90990ad61722b274bd9cbd861ffba6a4b3f
